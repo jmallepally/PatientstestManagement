@@ -1,6 +1,4 @@
 # PatientstestManagement
-“Patients Medical Test Manager” design document:
-Design Goals:
 This test application is intended for maintaining patients medical details such as patient name, date of birth, patient home address and medical test information. Medical test details includes type of test done, instrument used for test, when the test was done and the test results.
 User shall be able to:
 -	View/browse through existing patient details.
