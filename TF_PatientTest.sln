@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TF_PatientTest", "TF_PatientTest\TF_PatientTest.csproj", "{49C7962B-4AA7-4BE3-BF04-534BDCF663F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TF_PatientTestTests", "TF_PatientTestTests\TF_PatientTestTests.csproj", "{D8FB2F8C-536D-4865-9395-488E1CE557DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49C7962B-4AA7-4BE3-BF04-534BDCF663F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49C7962B-4AA7-4BE3-BF04-534BDCF663F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49C7962B-4AA7-4BE3-BF04-534BDCF663F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49C7962B-4AA7-4BE3-BF04-534BDCF663F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8FB2F8C-536D-4865-9395-488E1CE557DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8FB2F8C-536D-4865-9395-488E1CE557DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8FB2F8C-536D-4865-9395-488E1CE557DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8FB2F8C-536D-4865-9395-488E1CE557DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7587F361-9D45-405E-97B2-D4DBBD591DA8}
+	EndGlobalSection
+EndGlobal
